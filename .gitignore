@@ -1,0 +1,12 @@
+mini_book/_build/*
+.ipynb_checkpoints
+.DS_Store
+__pycache__/
+.~
+.github/*
+
+notes/*/*/*/*/nih
+notes/*/*/*/*/nih/*
+notes/*/*/*/*/nih.*
+notes/*/*/*/*/BraTS-Data.*
+notes/*/*/*/*/BraTS-Data/*
